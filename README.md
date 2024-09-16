@@ -1,2 +1,2 @@
 # Feed-the-Animal
- Exercise 2 files
+ Contains files for Exercise 2
